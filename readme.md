@@ -1,4 +1,8 @@
-﻿# Imagination Cell
+﻿![Imagination Cell Banner](https://via.placeholder.com/1200x300.png?text=Imagination+Cell+Game+Development)
+
+---
+
+# Imagination Cell
 
 > **Imagination Cell** is an independent developer focused on creating creative, accessible, and user-friendly digital experiences. By combining technology with imagination, we strive to build products that are simple, engaging, and meaningful for a wide range of users.
 
