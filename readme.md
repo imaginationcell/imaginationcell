@@ -1,5 +1,4 @@
-﻿![Imagination Cell Banner](https://via.placeholder.com/1200x300.png?text=Imagination+Cell+Game+Development)
-
+﻿![Banner](assets/banner.png)
 ---
 
 # Imagination Cell
